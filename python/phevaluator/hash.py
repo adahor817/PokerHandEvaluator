@@ -1,5 +1,6 @@
 """Module hashing cards."""
 from .tables import CHOOSE, DP
+from __future__ import annotations
 
 
 def hash_quinary(quinary: list[int], num_cards: int) -> int:
