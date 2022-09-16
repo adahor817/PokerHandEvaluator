@@ -1,5 +1,5 @@
-"""Module hashing cards."""
 from __future__ import annotations
+"""Module hashing cards."""
 from .tables import CHOOSE, DP
 
 
