@@ -1,5 +1,6 @@
 """Module evaluating cards in Omaha game."""
 from typing import Union
+from __future__ import annotations
 
 from .card import Card
 from .hash import hash_binary, hash_quinary
