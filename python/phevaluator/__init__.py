@@ -1,5 +1,5 @@
-"""Package for evaluating a poker hand."""
 from __future__ import annotations
+"""Package for evaluating a poker hand."""
 from . import hash as hash_  # FIXME: `hash` collides to built-in function
 from . import tables
 from .card import Card
