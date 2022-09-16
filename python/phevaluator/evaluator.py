@@ -1,6 +1,6 @@
+from __future__ import annotations
 """Module evaluating cards."""
 from typing import Union
-from __future__ import annotations
 
 from .card import Card
 from .hash import hash_quinary
