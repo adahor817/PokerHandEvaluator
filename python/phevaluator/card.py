@@ -1,5 +1,5 @@
-"""Module for card."""
 from __future__ import annotations
+"""Module for card."""
 
 from typing import Any, Union
 
