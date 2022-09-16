@@ -1,6 +1,6 @@
+from __future__ import annotations
 """Utilities."""
 import random
-from __future__ import annotations
 
 def sample_cards(size: int) -> list[int]:
     """Sample random cards with size."""
